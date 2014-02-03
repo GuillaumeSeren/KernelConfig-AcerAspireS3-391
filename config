@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/i386 3.13.0-2014020116 Kernel Configuration
+# Linux/i386 3.13.0-2014020219 Kernel Configuration
 #
 # CONFIG_64BIT is not set
 CONFIG_X86_32=y
@@ -5517,6 +5517,7 @@ CONFIG_RTLLIB_CRYPTO_WEP=m
 CONFIG_RTL8192E=m
 CONFIG_R8712U=m
 # CONFIG_R8188EU is not set
+# CONFIG_R8821AE is not set
 CONFIG_RTS5139=m
 # CONFIG_RTS5139_DEBUG is not set
 # CONFIG_RTS5208 is not set
